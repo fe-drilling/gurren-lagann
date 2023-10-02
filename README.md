@@ -12,6 +12,9 @@
 그리고 이 내용을 공유하고 싶은 사람에게 `Assignees`을 할당하여 모두의 지식이 `+1` 씩 되어보도록 합시다!
 
 ## Issue
+### 2023.09.26~2023.10.02
+- [TypeScript에서 진정한 TopType은 Unknown뿐이다!](https://github.com/fe-drilling/gurren-lagann/issues/14)
+- [나도 배포 플랫폼에서 proxy 쓰고 싶다고..! ](https://github.com/fe-drilling/gurren-lagann/issues/13)
 
 ### 2023.09.18~2023.09.25
 - [보다 상세한 DNS 동작과정을 알아봅시다!](https://github.com/fe-drilling/gurren-lagann/issues/12)
