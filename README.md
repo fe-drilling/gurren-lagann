@@ -11,6 +11,8 @@
 
 그리고 이 내용을 공유하고 싶은 사람에게 `Assignees`을 할당하여 모두의 지식이 `+1` 씩 되어보도록 합시다!
 
+- 매주 월요일 23:59:59가 기준으로 `Issue`는 `close`를 제가 수동으로 하고 있습니다. (자동으로... 나중에 돌려놓을게요)
+
 ## Issue
 ### 2023.09.26~2023.10.02
 - [TypeScript에서 진정한 TopType은 Unknown뿐이다!](https://github.com/fe-drilling/gurren-lagann/issues/14)
